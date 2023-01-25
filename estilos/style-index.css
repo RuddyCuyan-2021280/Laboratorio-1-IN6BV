@@ -5,9 +5,6 @@
 	text-decoration: none;
 	font-family: "Open Sans", sans-serif;
 }
-body{
-	background: #34a0a4;
-}
 header{
 	width: 100%;
 	height: 90px;
@@ -64,22 +61,13 @@ header{
 .navegacion ul li:hover .hijos{
 	display: block;
 }
-.navegacion .submenu .hijos{
-	display: none;
-	background: #0b132b;
-	position: absolute;
-	width: 100%;
-}
-.navegacion .submenu .hijos li{
-	display: block;
-	overflow: hidden;
-	border-bottom: none;
-}
-.navegacion .submenu .hijos li a{
-	display: block;
-}
-
 .margen{
     height: 25px;
     text-align: center;
 }
+#logo-barra-nav{
+	height: 90px;
+	padding-top: 5px;
+}
+
+slider 
