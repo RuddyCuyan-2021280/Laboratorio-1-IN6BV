@@ -69,3 +69,34 @@ header{
 	height: 90px;
 	padding-top: 5px;
 }
+.image1{
+	width: 300px;
+	height: 200px;
+	margin: 25px;
+}
+.image2{
+	width: 300px;
+	height: 200px;
+	margin: 25px;
+}
+.image3{
+	width: 300px;
+	height: 200px;
+	margin: 25px;
+}
+.descripcion{
+	text-align: left;
+	width: 500px;
+	margin-top: 60px;
+	font-weight: bold;
+	color: white;
+}
+.containers{
+	width: auto;
+	display: flex;
+	justify-content: center;
+}
+.titulos{
+	text-align: center;
+	color: white;
+}
